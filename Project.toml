@@ -1,0 +1,8 @@
+name = "Hello"
+uuid = "1c0f6ddd-1a04-4bad-9d3b-4752418fc178"
+authors = ["Dongdong Kong <kongdd@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"

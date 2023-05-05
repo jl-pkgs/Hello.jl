@@ -1,0 +1,6 @@
+Manifest.toml
+*.dll
+*.so
+*.o
+*.log
+.vscode
